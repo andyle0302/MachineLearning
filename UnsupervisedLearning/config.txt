@@ -1,0 +1,8 @@
+%cd '/content/drive/MyDrive/MachineLearning/MachineLearning'
+!git config --global user.email "nh0k.0k.911@gmail.com"
+!git config --global user.name "qtuter1997"
+!git remote set-url origin https://{'qtuter1997'}:{'Nh0cNh0911'}@github.com/{'qtuter1997'}/MachineLearning.git
+# Command
+!git add .
+!git commit -m 'KmeanClustering'
+!git push
